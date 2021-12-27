@@ -1,4 +1,7 @@
 bootstrap/*
+.sass-cache/
+*.css.map
+node_modules/
 images/*
 *.diff
 *.err
